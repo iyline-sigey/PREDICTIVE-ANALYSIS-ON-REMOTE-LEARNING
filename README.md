@@ -49,9 +49,13 @@ This project was done as part of a Data Science course.
 # Contributors
 
 Iyline Chumo
+
 Kevina Zeni
+
 Dennis Kiarie
+
 Joy Machuka
+
 Jackson Kyalo
 
 # Contact Details
