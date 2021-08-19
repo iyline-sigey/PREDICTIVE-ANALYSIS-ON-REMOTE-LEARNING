@@ -1,6 +1,6 @@
 # Introduction
 
-This project seeks to create predictive models that can effectively Predict the sentiment of a tweet about Remote Learning in Kenya.
+This project seeks to create predictive models that can effectively Predict the sentiment of a tweet about Remote Learning in Kenya if it is either neagtive or positive.
 
 # Motivation
 
